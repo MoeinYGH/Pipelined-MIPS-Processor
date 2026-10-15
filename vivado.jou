@@ -1,0 +1,54 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Jul 22 14:26:41 2026
+# Process ID: 10544
+# Current directory: E:/mipsProjectFinal
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent19120 E:\mipsProjectFinal\MIPS_Pipeline_SUPER_Final.xpr
+# Log file: E:/mipsProjectFinal/vivado.log
+# Journal file: E:/mipsProjectFinal\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source MIPS_Pipeline_With_Cache_TB_final.tcl
+close_sim
+launch_simulation
+source MIPS_Pipeline_With_Cache_TB_final.tcl
+run 4000ns
+close_sim
+launch_simulation
+source MIPS_Pipeline_With_Cache_TB_final.tcl
+update_compile_order -fileset sim_1
+run 4000ns
+update_compile_order -fileset sim_1
+close_sim
+launch_simulation
+source MIPS_Pipeline_With_Cache_TB_final.tcl
+close_sim
+launch_simulation
+source MIPS_Pipeline_With_Cache_TB_final.tcl
+RUN 4000NS
+run 4000ns
+close_sim
+launch_simulation
+source MIPS_Pipeline_With_Cache_TB_final.tcl
+run 4000ns
+close_sim
+launch_simulation
+source MIPS_Pipeline_With_Cache_TB_final.tcl
+restart
+run 4000ns
+relaunch_sim
+run 4000ns
+close_sim
+launch_simulation
+source MIPS_Pipeline_With_Cache_TB_final.tcl
+run 4000ns
+close_sim
+launch_simulation
+source MIPS_Pipeline_With_Cache_TB_final.tcl
+run 4000ns
+close_sim

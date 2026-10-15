@@ -1,0 +1,29 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/ALU.v" \
+"../../../../MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/ALUControl.v" \
+"../../../../MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/Cache_Controller.v" \
+"../../../../MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/ControlUnit.v" \
+"../../../../MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/EX_MEM_reg.v" \
+"../../../../MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/Forwarding_Unit.v" \
+"../../../../MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/HazardDetection_Unit.v" \
+"../../../../MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/ICache.v" \
+"../../../../MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/ID_EX_reg.v" \
+"../../../../MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/IF_ID_reg.v" \
+"../../../../MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/L1_Cache.v" \
+"../../../../MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/L2_Arbiter.v" \
+"../../../../MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/L2_Cache.v" \
+"../../../../MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/MEM_WB_reg.v" \
+"../../../../MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/MIPS_Pipeline_Top.v" \
+"../../../../MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/Main_Memory.v" \
+"../../../../MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/PC.v" \
+"../../../../MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/RegisterFile.v" \
+"../../../../MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/SignExtension.v" \
+"../../../../MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/pcplus4.v" \
+"../../../../MIPS_Pipeline_SUPER_Final.srcs/sim_1/new/MIPS_Pipeline_With_Cache_TB_final.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

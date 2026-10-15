@@ -1,0 +1,26 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sim_1/new/MIPS_Pipeline_With_Cache_TB_final.v,1784718787,verilog,,,,MIPS_Pipeline_With_Cache_TB_final,,,,,,,,
+E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/ALU.v,1782677442,verilog,,E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/ALUControl.v,,ALU,,,,,,,,
+E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/ALUControl.v,1782677414,verilog,,E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/Cache_Controller.v,,ALUControl,,,,,,,,
+E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/Cache_Controller.v,1782683096,verilog,,E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/ControlUnit.v,,Cache_Controller,,,,,,,,
+E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/ControlUnit.v,1782677102,verilog,,E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/EX_MEM_reg.v,,ControlUnit,,,,,,,,
+E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/EX_MEM_reg.v,1782677493,verilog,,E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/Forwarding_Unit.v,,EX_MEM_reg,,,,,,,,
+E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/Forwarding_Unit.v,1782677461,verilog,,E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/HazardDetection_Unit.v,,Forwarding_Unit,,,,,,,,
+E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/HazardDetection_Unit.v,1782683055,verilog,,E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/ICache.v,,HazardDetection_Unit,,,,,,,,
+E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/ICache.v,1782683333,verilog,,E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/ID_EX_reg.v,,ICache,,,,,,,,
+E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/ID_EX_reg.v,1782680055,verilog,,E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/IF_ID_reg.v,,ID_EX_reg,,,,,,,,
+E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/IF_ID_reg.v,1782683072,verilog,,E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/L1_Cache.v,,IF_ID_reg,,,,,,,,
+E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/L1_Cache.v,1782682671,verilog,,E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/L2_Arbiter.v,,L1_Cache,,,,,,,,
+E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/L2_Arbiter.v,1782682774,verilog,,E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/L2_Cache.v,,L2_Arbiter,,,,,,,,
+E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/L2_Cache.v,1782682913,verilog,,E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/MEM_WB_reg.v,,L2_Cache,,,,,,,,
+E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/MEM_WB_reg.v,1782677512,verilog,,E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/MIPS_Pipeline_Top.v,,MEM_WB_reg,,,,,,,,
+E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/MIPS_Pipeline_Top.v,1782682961,verilog,,E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/Main_Memory.v,,MIPS_Pipeline_Top,,,,,,,,
+E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/Main_Memory.v,1784720361,verilog,,E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/PC.v,,Main_Memory,,,,,,,,
+E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/PC.v,1782683065,verilog,,E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/RegisterFile.v,,PC,,,,,,,,
+E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/RegisterFile.v,1782677353,verilog,,E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/SignExtension.v,,RegisterFile,,,,,,,,
+E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/SignExtension.v,1782677372,verilog,,E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/pcplus4.v,,SignExtension,,,,,,,,
+E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sources_1/new/pcplus4.v,1782677057,verilog,,E:/mipsProjectFinal/MIPS_Pipeline_SUPER_Final.srcs/sim_1/new/MIPS_Pipeline_With_Cache_TB_final.v,,pcplus4,,,,,,,,
